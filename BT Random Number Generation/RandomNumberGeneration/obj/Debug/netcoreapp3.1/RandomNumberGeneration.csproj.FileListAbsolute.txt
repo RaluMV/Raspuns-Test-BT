@@ -1,0 +1,13 @@
+D:\code\RandomNumberGeneration\bin\Debug\netcoreapp3.1\RandomNumberGeneration.exe
+D:\code\RandomNumberGeneration\bin\Debug\netcoreapp3.1\RandomNumberGeneration.deps.json
+D:\code\RandomNumberGeneration\bin\Debug\netcoreapp3.1\RandomNumberGeneration.runtimeconfig.json
+D:\code\RandomNumberGeneration\bin\Debug\netcoreapp3.1\RandomNumberGeneration.runtimeconfig.dev.json
+D:\code\RandomNumberGeneration\bin\Debug\netcoreapp3.1\RandomNumberGeneration.dll
+D:\code\RandomNumberGeneration\bin\Debug\netcoreapp3.1\RandomNumberGeneration.pdb
+D:\code\RandomNumberGeneration\obj\Debug\netcoreapp3.1\RandomNumberGeneration.csprojAssemblyReference.cache
+D:\code\RandomNumberGeneration\obj\Debug\netcoreapp3.1\RandomNumberGeneration.AssemblyInfoInputs.cache
+D:\code\RandomNumberGeneration\obj\Debug\netcoreapp3.1\RandomNumberGeneration.AssemblyInfo.cs
+D:\code\RandomNumberGeneration\obj\Debug\netcoreapp3.1\RandomNumberGeneration.csproj.CoreCompileInputs.cache
+D:\code\RandomNumberGeneration\obj\Debug\netcoreapp3.1\RandomNumberGeneration.dll
+D:\code\RandomNumberGeneration\obj\Debug\netcoreapp3.1\RandomNumberGeneration.pdb
+D:\code\RandomNumberGeneration\obj\Debug\netcoreapp3.1\RandomNumberGeneration.genruntimeconfig.cache
